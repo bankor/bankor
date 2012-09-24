@@ -1,0 +1,44 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background: white url(images/fon.jpg) repeat-x ;
+}
+.header {
+    width: 980px;
+    height: 111px;
+    margin: auto;
+}
+.left-page {
+    float: left;
+}
+.logo {
+  margin:6px 0px 0px 0px ;
+  float: left;  
+}
+.logo-title {
+    font-family:verdana, sans-serif;
+    font-size: 7pt;
+    color: #cecece;
+    font-weight: bold;
+    cursor: default;
+    margin: 0px 0px 0px 0px;
+}
+.nav-system-item {
+    margin: 12px 0px 0px 0px;
+    float: left;
+}
+.nav-system-link {
+    cursor: pointer;
+    font-family: verdana, sans-serif;
+    font-size: 9pt;
+    color: #545454;
+    margin: 3px 0px 0px 3px;
+    float: left; 
+}
+.nav-system-delimiter {
+    border-right: 1px solid #0e203b;
+    line-height: 20px;
+    float: left;
+    padding: 0px 8px 0px 3px;
+    
+}
